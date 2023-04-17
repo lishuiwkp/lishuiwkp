@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lishuiwkp
 - 👀 I’m interested in social networks, technology innovation, etc.
-- 🌱 I’m currently learning how to deal with the problem related social networks, like relation data modeling - ERGM SAOM.
+- 🌱 I’m currently learning how to deal with the problem related social networks, like relation data modeling - ERGM SAOM REM.
 
 <!---
 lishuiwkp/lishuiwkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
